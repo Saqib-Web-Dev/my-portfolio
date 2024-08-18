@@ -1,14 +1,4 @@
 @charset "UTF-8";
-/*-----------------------------------------------------------------------------------
-
-    Theme Name: Geekfolio
-    Theme URI: http://
-    Description: Creative Agency & Portfolio
-    Author: UI-ThemeZ
-    Author URI: http://themeforest.net/user/UI-ThemeZ
-    Version: 1.0
-
------------------------------------------------------------------------------------*/
 /* Variables
 -----------------------------------------------------------------*/
 /* Typography
@@ -6792,7 +6782,6 @@ footer.clean-footer.crev:before {
 }
 
 .portfolio-carsouel .work-swiper-center .item .img {
-  height: 400px;
   border-radius: 10px;
   overflow: hidden;
 }
